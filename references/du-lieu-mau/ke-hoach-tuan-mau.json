@@ -1,0 +1,25 @@
+{
+  "doanh_nghiep": "Gốm Mộc An Nhiên",
+  "mo_ta": "Xưởng gốm thủ công gia dụng mộc mạc, làm tay từng chiếc cốc chén men tro tự nhiên tại Bát Tràng.",
+  "muc_tieu_tuan": "Tăng nhận biết bộ sưu tập cốc mùa thu và thu hút đăng ký workshop trải nghiệm làm gốm cuối tuần.",
+  "chu_de": [
+    "Câu chuyện bài men tro thủ công tự nhiên",
+    "Gợi ý chọn cốc gốm mộc uống trà mùa thu",
+    "Hậu trường mở mẻ lò nung củi đêm",
+    "Mẹo làm sạch và dưỡng đồ gốm men mộc",
+    "Trải nghiệm tự tay nặn gốm ngày thứ Bảy",
+    "Góc bình yên của khách quen tại xưởng",
+    "Lời mời ghé xưởng trải nghiệm làm gốm cuối tuần"
+  ],
+  "ngay_dang": [
+    "Thứ Hai",
+    "Thứ Ba",
+    "Thứ Tư",
+    "Thứ Năm",
+    "Thứ Sáu",
+    "Thứ Bảy",
+    "Chủ Nhật"
+  ],
+  "trang_dich": "https://example.com/workshop-gom",
+  "chien_dich": "gom-tuan-thu"
+}
